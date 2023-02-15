@@ -1,0 +1,41 @@
+body {
+  background-color: blanchedalmond;
+}
+
+h2 {
+  text-align: center;
+}
+
+#myForm {
+  background: #4682b4;
+  color: #fff;
+  width: 50%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+input,
+select,
+button {
+  padding: 0;
+  margin: 5px;
+  box-sizing: border-box;
+}
+
+label {
+  float: left;
+  width: 100px;
+  text-align: right;
+  font-weight: bold;
+ }
+
+ fieldset {
+  margin-bottom: 10px;
+  width: 50%;
+  margin: 0 auto;
+ }
+
+ #state {
+  width: 171px;
+  height: 25px;
+ }
